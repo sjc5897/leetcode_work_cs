@@ -3,7 +3,7 @@ using System.IO;
 
 namespace binarySearch
 {
-    class Program
+    class binarySearch
     {
         public static int Search(int[] nums, int target) {
             int left = 0;
