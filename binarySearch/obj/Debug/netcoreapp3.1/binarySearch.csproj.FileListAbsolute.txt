@@ -1,0 +1,10 @@
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/bin/Debug/netcoreapp3.1/binarySearch.deps.json
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/bin/Debug/netcoreapp3.1/binarySearch.runtimeconfig.json
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/bin/Debug/netcoreapp3.1/binarySearch.runtimeconfig.dev.json
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/bin/Debug/netcoreapp3.1/binarySearch.dll
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/bin/Debug/netcoreapp3.1/binarySearch.pdb
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/obj/Debug/netcoreapp3.1/binarySearch.csprojAssemblyReference.cache
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/obj/Debug/netcoreapp3.1/binarySearch.AssemblyInfoInputs.cache
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/obj/Debug/netcoreapp3.1/binarySearch.AssemblyInfo.cs
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/obj/Debug/netcoreapp3.1/binarySearch.dll
+/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/obj/Debug/netcoreapp3.1/binarySearch.pdb

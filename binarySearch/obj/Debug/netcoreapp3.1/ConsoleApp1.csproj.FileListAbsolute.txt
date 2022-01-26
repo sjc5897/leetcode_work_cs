@@ -1,0 +1,10 @@
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/stephencook/RiderProjects/leetcode_work_cs/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
