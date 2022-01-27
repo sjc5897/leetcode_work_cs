@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binarySearch", "binarySearc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "binary_search", "binary_search", "{62503351-25A8-4235-8C3D-AA5FB8F0C973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstBadVersion", "firstBadVersion\firstBadVersion.csproj", "{71B763E6-506C-43F6-AC7B-2084F7AA2A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchInsertPosition", "searchInsertPosition\searchInsertPosition.csproj", "{EEFC280B-0660-46C3-899E-D72AF5D71ED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,8 +18,18 @@ Global
 		{29E58B9F-FE24-43CB-B4A9-B16F52A2E1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E58B9F-FE24-43CB-B4A9-B16F52A2E1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E58B9F-FE24-43CB-B4A9-B16F52A2E1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B763E6-506C-43F6-AC7B-2084F7AA2A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B763E6-506C-43F6-AC7B-2084F7AA2A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B763E6-506C-43F6-AC7B-2084F7AA2A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B763E6-506C-43F6-AC7B-2084F7AA2A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFC280B-0660-46C3-899E-D72AF5D71ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFC280B-0660-46C3-899E-D72AF5D71ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFC280B-0660-46C3-899E-D72AF5D71ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFC280B-0660-46C3-899E-D72AF5D71ED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{29E58B9F-FE24-43CB-B4A9-B16F52A2E1AC} = {62503351-25A8-4235-8C3D-AA5FB8F0C973}
+		{71B763E6-506C-43F6-AC7B-2084F7AA2A24} = {62503351-25A8-4235-8C3D-AA5FB8F0C973}
+		{EEFC280B-0660-46C3-899E-D72AF5D71ED6} = {62503351-25A8-4235-8C3D-AA5FB8F0C973}
 	EndGlobalSection
 EndGlobal

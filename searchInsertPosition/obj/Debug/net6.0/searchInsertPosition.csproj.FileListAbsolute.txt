@@ -1,0 +1,15 @@
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\bin\Debug\net6.0\searchInsertPosition.exe
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\bin\Debug\net6.0\searchInsertPosition.deps.json
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\bin\Debug\net6.0\searchInsertPosition.runtimeconfig.json
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\bin\Debug\net6.0\searchInsertPosition.dll
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\bin\Debug\net6.0\ref\searchInsertPosition.dll
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\bin\Debug\net6.0\searchInsertPosition.pdb
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.csproj.AssemblyReference.cache
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.AssemblyInfoInputs.cache
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.AssemblyInfo.cs
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.dll
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\ref\searchInsertPosition.dll
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.pdb
+C:\Users\steve\RiderProjects\leetcode_work_cs\searchInsertPosition\obj\Debug\net6.0\searchInsertPosition.genruntimeconfig.cache

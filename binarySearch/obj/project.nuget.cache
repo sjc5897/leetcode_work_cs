@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OH01m3aZ7a8I7NrVrt7eeL9nf0GmUuSyIriwwG+8N2v3M3Yh/c1vgXdmzlzucfFrBnMWQOPWaAwhRJJ6qkPRfA==",
+  "dgSpecHash": "pHbAjfFBTtzffPjBXQhbaWzCFYxPlcfUul/dKaoBHihmCt7q2iqAkLLpW9XW2o0BqQfk5DWvPV0rzyevncB1rQ==",
   "success": true,
-  "projectFilePath": "/Users/stephencook/RiderProjects/leetcode_work_cs/binarySearch/binarySearch.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\steve\\RiderProjects\\leetcode_work_cs\\binarySearch\\binarySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
